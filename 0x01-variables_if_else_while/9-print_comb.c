@@ -1,6 +1,3 @@
-/**
- * Betty style
- */
 #include <stdio.h>
 
 /**
