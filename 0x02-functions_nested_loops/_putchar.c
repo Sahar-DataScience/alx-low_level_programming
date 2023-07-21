@@ -6,5 +6,5 @@
 int _putchar(void) /* function declaration prototype*/
 {
         printf("_putchar\n");
-        return(0);
+        return (0);
 }
