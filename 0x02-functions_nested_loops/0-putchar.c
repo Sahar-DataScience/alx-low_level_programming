@@ -5,10 +5,9 @@
 #include "main.h"
 
 /**
- * main:  use of function _putchar 
+ * main: use of function _putchar.
  * Return zero
 */
-
 int main(void)
 {
 	_putchar();
