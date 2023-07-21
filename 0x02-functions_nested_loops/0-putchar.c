@@ -1,15 +1,11 @@
 #include<stdio.h>
-/* 
- * make function that prints _putchar 
- * followed be new line 
- */
-
-/* function declaration */
+#include<main.h>
+/*
+ * use of function _putchar in main.h
+*/
 
 int main()
 {
-	printf("_putchar\n");
-	return(0);
+	_putchar();
 }
-
 
