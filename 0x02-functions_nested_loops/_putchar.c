@@ -5,6 +5,7 @@
 
 int _putchar(void) /* function declaration prototype*/
 {
+	/* Description */
         printf("_putchar\n");
         return (0);
 }

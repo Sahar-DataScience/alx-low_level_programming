@@ -7,6 +7,7 @@
 
 int main(void) /*the main program*/
 {
+	/* description */
 	_putchar();
 	return (0);
 }
