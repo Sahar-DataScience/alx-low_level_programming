@@ -1,13 +1,16 @@
+/*
+ * File: 0-putchar.c
+ */
 #include <stdio.h>
 #include "main.h"
 
 /**
- * use of function _putchar in main.h
+ * main:  use of function _putchar 
+ * Return zero
 */
 
-int main(void) /*the main program*/
+int main(void)
 {
-	/* description */
 	_putchar();
 	return (0);
 }

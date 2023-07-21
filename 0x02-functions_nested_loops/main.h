@@ -1,3 +1,3 @@
 /* header declaration */
 
-int _putchar(void);
+void _putchar();
