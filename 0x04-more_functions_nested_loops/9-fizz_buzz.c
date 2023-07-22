@@ -9,7 +9,7 @@
 
 int main(void)
 {
-	int i
+	int i;
 	for (i=0; i<100;i++)
 	{
 		if ((i % 3 == 0) && (i % 5 == 0))
@@ -26,7 +26,7 @@ int main(void)
 		}
 		else
 		{
-			printf("%d", x);
+			printf("%d", i);
 		}
 
 		if (i != 100)
