@@ -3,9 +3,10 @@
 /**
  * swap_int -  swaps the values of two integers.
  *
- * @a @b : pointers of integers
+ * @a : pointers of integer
+ * @b : pointers of integers
  *
- * Return void.
+ * Return: nothing.
  */
 
 void swap_int(int *a, int *b)
