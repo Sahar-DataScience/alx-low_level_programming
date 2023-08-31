@@ -1,1 +1,0 @@
-tuto abt linked list
