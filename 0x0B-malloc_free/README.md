@@ -1,1 +1,0 @@
-tutorial abt memory allocation
