@@ -1,2 +1,1 @@
-# alx-low_level_programming
-tutorial about c
+tutorial about linked lists
