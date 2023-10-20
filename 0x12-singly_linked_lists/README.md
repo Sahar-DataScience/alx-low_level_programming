@@ -1,0 +1,1 @@
+tutorial about linked lists
